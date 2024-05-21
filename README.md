@@ -31,7 +31,3 @@ To run this application, firstly we need to have the required library and depend
    python location_api.py
    ```
 
-## Disclaimer
-
-This repo is created to submit the assessment task. However, due to the lack of time, I didn't manage to complete all the task given. As I am interesting with this assessment task, I will complete this task after this. Currently I approaching the final week of my internship duration, I encountered an unexpectedly heavy workload.
-   
